@@ -22,3 +22,5 @@ The objective of this project is to create seven functions to analyse Eskom data
   Returns a dataframe with an added column of the tweet without stopwords.
   
 Technologies used: python numpy, pandas
+
+![eskom-2](https://user-images.githubusercontent.com/36913316/135768607-01861f85-7fc8-4806-8b29-db8b8cb96307.jpg)
